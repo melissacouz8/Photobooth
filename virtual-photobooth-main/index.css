@@ -223,7 +223,7 @@ to { opacity: 1; }
 /** photoframe style **/
 .framebg {
 	margin: auto;
-	background-image: url('images/photobooth_frame.png');
+	background-image: url('images/3.png');
 	box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
 	overflow: hidden;
 	width: 350px;
@@ -233,7 +233,7 @@ to { opacity: 1; }
 }
 .card {
 	margin: auto;
-	background-image: url('../images/photobooth_frame.png');
+	background-image: url('../images/3.png');
 	box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
 	overflow: hidden;
 	width: 350px;
